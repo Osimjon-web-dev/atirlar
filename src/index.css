@@ -27,7 +27,7 @@ body {
   align-items: center;
 }
 .logo{
-  widht: 20px;
+  width: 20px;
   height: 20px;
 }
 .navbar-menu{
@@ -84,7 +84,7 @@ body {
   width: 100%;
   height: 500px;
   background-size: cover;
-  background-image: url(./img/duhi.png);
+  background-image: url(../public/img/duhi.png);
 }
 .hashteg{
   color:rgba(255, 235, 204, 1);
@@ -114,7 +114,7 @@ margin-bottom: 30px;
   width: 522px;
   height: 400px;
   text-align: center;
-  background-image: url(./img/smalduhi.png);
+  background-image: url(../public/img/smalduhi.png);
   color:rgba(255, 235, 204, 1);
 
 }
@@ -125,7 +125,7 @@ margin-bottom: 30px;
 .smallatir{
   width: 360px;
   height: 400px;
-  background-image: url(./img/sariw.png);
+  background-image: url(../public/img/sariw.png);
   text-align: center;
   color:rgba(255, 235, 204, 1);
 
@@ -135,7 +135,7 @@ margin-bottom: 30px;
   justify-content: space-between;
 }
 .ik{
-  background-image: url(./img/kokow.png);
+  background-image: url(../public/img/kokow.png);
 }
 .atbut{
   width: 245px;
@@ -150,7 +150,7 @@ margin-bottom: 30px;
 .bonus{
   width: 100%;
   height:280px ;
-  background-image: url(./img/osmon.png);
+  background-image: url(../public/img/osmon.png);
 }
 .rgba{
   color: rgba(255, 235, 204, 1);
